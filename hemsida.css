@@ -19,3 +19,41 @@ footer {
   position: relative;
   margin-bottom: 20px;
 }
+
+.txt-over-img {
+  color: rgb(255, 255, 255);
+  transform: translate(-50%, -50%);
+  background-color: rgba(41, 41, 41, 0.8);
+  padding: 0.5rem;
+  font-size: 16px;
+}
+
+.txt-over-drink {
+  display: flex;
+  justify-content: space-around;
+
+  position: absolute;
+  color: rgb(255, 255, 255);
+  left: 24%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(41, 41, 41, 0.8);
+  padding: 0.5rem;
+  text-align: center;
+  font-size: 16px;
+}
+
+.txt-over-food {
+  display: flex;
+  justify-content: space-around;
+
+  position: absolute;
+  color: rgb(255, 255, 255);
+  left: 75%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(41, 41, 41, 0.8);
+  padding: 0.5rem;
+  text-align: center;
+  font-size: 16px;
+}
