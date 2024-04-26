@@ -31,7 +31,7 @@ footer {
 .txt-over-drink {
   display: flex;
   justify-content: space-around;
-
+  text-decoration: none;
   position: absolute;
   color: rgb(255, 255, 255);
   left: 24%;
@@ -46,6 +46,7 @@ footer {
 .txt-over-food {
   display: flex;
   justify-content: space-around;
+  text-decoration: none;
 
   position: absolute;
   color: rgb(255, 255, 255);
