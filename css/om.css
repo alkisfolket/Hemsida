@@ -1,0 +1,24 @@
+.om-txt {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.om-rad {
+  float: left;
+  width: 40%;
+  margin-left: 8%;
+}
+h2 {
+  border: 3px solid;
+  margin-bottom: 0px;
+}
+p {
+  margin-top: 0px;
+  border: solid;
+  border-top: 0px;
+}
+
+li {
+  list-style-type: none;
+}

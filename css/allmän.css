@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Great+Vibes&display=swap");
+body {
+  background-color: rgb(254, 231, 209);
+}
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.company-name {
+  background-color: rgb(244, 202, 162);
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+.nav-link {
+  margin-left: 20px;
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+
+nav {
+  text-align: center;
+  background-color: rgb(249, 248, 247);
+  margin-top: 0px;
+}
+footer {
+  display: flex;
+  background-color: rgb(244, 202, 162);
+}
+
+.social {
+  text-decoration: none;
+  color: black;
+  margin-left: 21%;
+  font-size: large;
+}
